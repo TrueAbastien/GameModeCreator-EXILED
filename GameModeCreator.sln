@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.API", "GameModeCreator-API\GameModeCreator.API.csproj", "{771DEB97-FE67-420C-B13D-EC108DFD1FCF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.Core", "GameModeCreator-Core\GameModeCreator.Core.csproj", "{8314159A-CC06-4A7F-9AA8-24C8A6AC6E39}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.Loader", "GameModeCreator-Loader\GameModeCreator.Loader.csproj", "{6896B4CC-CEA9-4992-8013-09E1038C99B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.Sample", "GameModeCreator-Sample\GameModeCreator.Sample.csproj", "{95E97C98-490D-4005-8A13-F7AC9AEBD623}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{771DEB97-FE67-420C-B13D-EC108DFD1FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{771DEB97-FE67-420C-B13D-EC108DFD1FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{771DEB97-FE67-420C-B13D-EC108DFD1FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{771DEB97-FE67-420C-B13D-EC108DFD1FCF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8314159A-CC06-4A7F-9AA8-24C8A6AC6E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8314159A-CC06-4A7F-9AA8-24C8A6AC6E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8314159A-CC06-4A7F-9AA8-24C8A6AC6E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8314159A-CC06-4A7F-9AA8-24C8A6AC6E39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6896B4CC-CEA9-4992-8013-09E1038C99B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6896B4CC-CEA9-4992-8013-09E1038C99B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6896B4CC-CEA9-4992-8013-09E1038C99B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6896B4CC-CEA9-4992-8013-09E1038C99B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
