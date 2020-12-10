@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.Sample", "GameModeCreator-Sample\GameModeCreator.Sample.csproj", "{95E97C98-490D-4005-8A13-F7AC9AEBD623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.Loader", "GameModeCreator-Loader\GameModeCreator.Loader.csproj", "{370E8D21-19A3-4A2F-8688-0EE2279FB96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModeCreator.API", "GameModeCreator-API\GameModeCreator.API.csproj", "{834F08B0-A827-4D62-BE72-B2E8A70A8D28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E97C98-490D-4005-8A13-F7AC9AEBD623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370E8D21-19A3-4A2F-8688-0EE2279FB96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370E8D21-19A3-4A2F-8688-0EE2279FB96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370E8D21-19A3-4A2F-8688-0EE2279FB96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370E8D21-19A3-4A2F-8688-0EE2279FB96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834F08B0-A827-4D62-BE72-B2E8A70A8D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834F08B0-A827-4D62-BE72-B2E8A70A8D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834F08B0-A827-4D62-BE72-B2E8A70A8D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834F08B0-A827-4D62-BE72-B2E8A70A8D28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
